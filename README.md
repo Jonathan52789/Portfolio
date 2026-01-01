@@ -5,7 +5,7 @@
 ## ANSYS Mechanical Self-Study
 
 ## Troitsky Bridge CAD
-Solidworks initial truss design for competition
+Solidworks initial basic truss design for competition
 
 - Dimensions: 1250mm span, optimized load.
 [View Dimensions PDF](Very-Basic-Truss-with-Dimensions.pdf)
