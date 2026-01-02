@@ -7,12 +7,11 @@
 ## Troitsky Bridge CAD
 Solidworks designs for competition
 
-- Initial Basic Truss Design
-[View Dimensions PDF](Very-Basic-Truss-with-Dimensions.pdf)
-[Plain View](Very-Basic-Truss.pdf)
+- Basic Truss Design
+[View Initial Basic Truss PDF](Very-Basic-Truss.pdf)
 
 - Solidworks Bridge Design
-[View PDF](Bridge.pdf)
+[View Bridge PDF](Bridge.pdf)
 
 ## Contact
 Resume: [Resume (PDF)](Forlini_Jonathan_Resume.pdf) | 
