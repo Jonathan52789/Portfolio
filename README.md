@@ -3,6 +3,8 @@
 ## Siemens NX Self-Study
 
 ## ANSYS Mechanical Self-Study
+<img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
+
 
 ## Troitsky Bridge CAD
 SolidWorks designs for competition
