@@ -4,7 +4,7 @@
 - Siemens NX 3D Model: Drill Press Support (Parametric Revolve) <img width="1240" height="855" alt="image" src="https://github.com/user-attachments/assets/c04c5061-df7b-4e8c-a9a6-7dbc273ceaa3" />
 
 - Siemens NX Drawing: Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
-![Support_dwg1](https://github.com/user-attachments/assets/75de9ad6-c894-467f-a6e9-202b5bf8163d)
+![Support_dwg1](https://github.com/user-attachments/assets/cdc7e15f-229e-417c-92b7-de4223e30a71)
 
 ## ANSYS Mechanical Self-Study
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
