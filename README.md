@@ -1,6 +1,8 @@
 # Jonathan Forlini - Aerospace Engineering Portfolio
 
 ## Siemens NX Self-Study
+- Siemens NX Drawing: Drill Press Support
+[View Drill Press Support](Support_dwg1.JPG)
 
 ## ANSYS Mechanical Self-Study
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
