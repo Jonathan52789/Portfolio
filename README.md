@@ -2,7 +2,6 @@
 
 ## Siemens NX Self-Study
 - Siemens NX Drawing: Drill Press Support
-[View Drill Press Support](Support_dwg1.JPG)
 ![Support_dwg1](https://github.com/user-attachments/assets/7276db92-6529-47a5-8842-5a5f642b0d99)
 
 
