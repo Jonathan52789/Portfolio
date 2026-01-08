@@ -16,6 +16,11 @@
 - Siemens NX Drawing: Drill Press Table Orthographic views, Section A-A, Detail B (1:1 scale)
 ![Table_dwg1](https://github.com/user-attachments/assets/02514cb0-1e65-4242-8a13-250bb1c23764)
 
+- Siemens NX 3D Model: Lever Assembly <img width="1691" height="1201" alt="image" src="https://github.com/user-attachments/assets/8096f49f-7b71-4578-b6f1-4d434cd6b341" />
+
+- Siemens NX Drawing: Lever Assembly
+
+
 ## ANSYS Mechanical Self-Study
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
 
