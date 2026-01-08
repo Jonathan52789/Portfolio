@@ -4,7 +4,7 @@
 - Siemens NX 3D Model: Drill Press Support (Parametric Revolve) <img width="1240" height="855" alt="image" src="https://github.com/user-attachments/assets/c04c5061-df7b-4e8c-a9a6-7dbc273ceaa3" />
 
 - Siemens NX Drawing: Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
-![Support_dwg1](https://github.com/user-attachments/assets/08d9d01b-bd38-458e-94dd-ff808862f0f8)
+![Support_dwg1](https://github.com/user-attachments/assets/9e058ce7-6de5-4a96-a53b-7bec1bf70b48)
 
 - Siemens NX 3D Model: Drill Press Table lock <img width="1442" height="1116" alt="image" src="https://github.com/user-attachments/assets/2302042f-f6b6-4019-9184-b0e5ceaae3b3" />
 
