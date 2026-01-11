@@ -1,6 +1,6 @@
 # Jonathan Forlini - Aerospace Engineering Portfolio
 
-## Siemens NX Self-Study
+## Siemens NX
 - Siemens NX 3D Model: Drill Press Support (Parametric Revolve) <img width="1579" height="1053" alt="image" src="https://github.com/user-attachments/assets/9def129c-f0d7-4f2c-bc71-1630c50916b2" />
 
 - Siemens NX Drawing: Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
