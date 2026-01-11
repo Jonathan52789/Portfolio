@@ -1,6 +1,6 @@
 # Jonathan Forlini - Aerospace Engineering Portfolio
 
-# Siemens NX
+## Siemens NX
 - Siemens NX 3D Model: Drill Press Support (Parametric Revolve) <img width="1579" height="1053" alt="image" src="https://github.com/user-attachments/assets/9def129c-f0d7-4f2c-bc71-1630c50916b2" />
 
 - Siemens NX Drawing: Drill Press Support Orthographic views, Section A-A, Detail B (2:1 scale)
@@ -21,7 +21,7 @@
 - Siemens NX Drawing: Lever Assembly Orthographic views, Detail A (2:1 scale)
 ![Lever assembly_dwg1](https://github.com/user-attachments/assets/d1760339-134c-4752-9826-089462379aea)
 
-# ANSYS Simulations
+## ANSYS Simulations
 - ANSYS 3D Steady-State Thermal Analysis: Fixed-Temperature Block (22°C Base, 10°C Opposite Face, Structural Steel k=60.5 W/m·K) <img width="2172" height="929" alt="image" src="https://github.com/user-attachments/assets/ba25c446-10d5-4731-b8d1-cc62a86a2e8b" />
 
 - ANSYS 3D Static Structural: Aluminum L-Bracket (von Mises max 234 MPa, avg 11.5 MPa, δ=0.1 mm) <img width="2173" height="1204" alt="image" src="https://github.com/user-attachments/assets/7087897d-40cb-481d-beee-74edcdf82632" />
@@ -32,7 +32,7 @@
 
 
 
-# Troitsky Bridge CAD
+## Troitsky Bridge CAD
 SolidWorks designs for competition
 
 - SolidWorks Basic Truss Design
@@ -41,6 +41,6 @@ SolidWorks designs for competition
 - SolidWorks Bridge Design
 [View Bridge PDF](Bridge.pdf)
 
-# Contact
+## Contact
 LinkedIn: www.linkedin.com/in/jonathan-forlini | 
 Email: Jonathanforlini@gmail.com
