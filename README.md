@@ -41,7 +41,7 @@
 ## Troitsky Bridge Building Competition
 
 - First Initial Dimensionless Solidworks Drawing
-[View Initial Basic Truss PDF](Very-Basic-Truss.pdf)
+[View Initial Basic Truss](Very-Basic-Truss.pdf)
 
 - SolidWorks Bridge Design
 <img width="1584" height="813" alt="image" src="https://github.com/user-attachments/assets/6aca5bb8-1c04-4f9c-866f-cfa957af3f17" />
