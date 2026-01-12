@@ -38,10 +38,9 @@
 - ANSYS 2D Fluid Flow: NACA0008 Results Table
 <img width="397" height="123" alt="image" src="https://github.com/user-attachments/assets/0b8f0fec-3ea9-4743-9c06-6d8214fda658" />
 
-## Troitsky Bridge CAD
-SolidWorks designs for competition
+## Troitsky Bridge Building Competition
 
-- SolidWorks Basic Truss Design
+- First Initial Dimensionless Solidworks Drawing
 [View Initial Basic Truss PDF](Very-Basic-Truss.pdf)
 
 - SolidWorks Bridge Design
