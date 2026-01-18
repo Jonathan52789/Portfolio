@@ -52,14 +52,17 @@
 **Team of 4 (2024) | My role: Physical assembly**
 
 **Overview**  
-Team designed and built a functional McLaren 765LT replica using Fusion 360 modeling, 3D printing, Arduino electronics, and remote control (RC) steering/driving with working headlights. Shows prototyping, precision assembly, and mechatronics skills.
+Team designed and built a functional McLaren 765LT replica using Fusion 360 modeling, 3D printing, Arduino electronics, and remote-control steering/driving with working headlights. Shows prototyping, assembly, and basic mechatronics skills.
 
 **Media**  
+
 ![McLaren765LT](https://github.com/user-attachments/assets/1962829b-91da-4970-8b8e-1e75fb4d33a4)
+
 ![Internals](https://github.com/user-attachments/assets/0f53c9af-d713-41ac-a33c-0c848c38e29d)
-https://github.com/user-attachments/assets/2cc91398-2c4f-4147-98bc-ff3ed191e31c
 
-
+<video src="https://github.com/user-attachments/assets/2cc91398-2c4f-4147-98bc-ff3ed191e31c"
+       width="600" height="350" controls loop>
+</video>
 
 ## Contact
 LinkedIn: www.linkedin.com/in/jonathan-forlini | 
