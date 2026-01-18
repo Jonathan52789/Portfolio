@@ -48,6 +48,16 @@
 
 [View Bridge Drawing PDF](Bridge.pdf)
 
+## RC McLaren 765LT - CEGEP Physics For Engineers Final Project
+**Team of 4 (2024) | My role: Physical assembly**
+
+**Overview**  
+Team designed and built a functional McLaren 765LT replica using Fusion 360 modeling, 3D printing, Arduino electronics, and remote control (RC) steering/driving with working headlights. Shows prototyping, precision assembly, and mechatronics skills.
+
+**Media**  
+![Complete car](image-car.jpg)  
+![Chassis internals](image-internals.jpg)  
+<video src="mclaren-driving-demo.mp4" width="600" height="350" controls loop></video>
 
 ## Contact
 LinkedIn: www.linkedin.com/in/jonathan-forlini | 
