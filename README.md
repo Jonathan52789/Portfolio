@@ -52,7 +52,7 @@
 **Team of 4 (2024) | My role: Physical assembly**
 
 **Overview**  
-Designed and built a functional McLaren 765LT replica using Fusion 360 and Blender for modeling, 3D printing for fabrication, and Arduino-based electronics for remote-control steering and functional headlights, demonstrating strong prototyping, assembly, and mechatronics skills.
+Designed and built a functional McLaren 765LT replica using Fusion 360 and Blender for modeling, 3D printing for fabrication, and Arduino-based electronics enabling remote-control driving, steering, and functional headlights, demonstrating strong prototyping, assembly, and mechatronics skills.
 
 **Media**  
 
